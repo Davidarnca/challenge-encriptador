@@ -1,0 +1,135 @@
+body {
+    background: #e5e5e5;
+  }
+  
+  .input-texto{
+    
+    color: #0a3871;
+  
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 35px;
+  
+    border-radius: 24px;
+    border-color: #e5e5e5;
+    border: #e5e5e5;
+    background: #e5e5e5;
+  
+    
+    position: absolute;
+    
+    left: 190px;
+    top: 100px;
+  }
+  
+  .encriptar {
+    /* Diseño */
+  
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    background: #0a3871;
+    border-radius: 24px;
+    border-color: #0a3871;
+    border: #0a3871;
+  
+    /* Color texto */
+  
+    color: #fff;
+  
+    width: 328px;
+    height: 67px;
+  
+    position: absolute;
+    
+    left: 190px;
+    top: 500px;
+  }
+  
+  .desencriptar {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    background: #d8dfe8;
+    border: 1px solid #0a3871;
+    border-radius: 24px;
+  
+    /* Color texto */
+  
+    color: #0a3871;
+  
+    width: 328px;
+    height: 67px;
+  
+    position: absolute;
+  
+    left: 530px;
+    top: 500px;
+  }
+  
+  .texto{
+    font-family: 'Times New Roman', Times, serif;
+  
+    position: absolute;
+  
+    left: 210px;
+    top: 480px;
+  }
+  
+  .mensaje {
+  
+    color: #0a3871;
+  
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 35px;
+  
+    text-align:center;
+  
+    /* Rectangle 1 */
+    border-radius: 24px;
+    border-color: #ffffff;
+    border: #ffffff;
+  
+    position: absolute;
+    width: 400px;
+    height: 580px;
+    left: 900px;
+    top: 20px;
+  
+    /* White */
+  
+    background: #ffffff;
+    /* shadow */
+  
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    border-radius: 32px;
+  }
+  
+  .copiar{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    background: #ffffff;
+    border: 1px solid #0a3871;
+    border-radius: 24px;
+  
+    /* Color texto */
+  
+    color: #0a3871;
+  
+    width: 328px;
+    height: 67px;
+  
+    position: absolute;
+    
+    left: 937px;
+    top: 500px;
+  }
